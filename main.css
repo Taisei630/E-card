@@ -1,0 +1,118 @@
+@charset "UTF-8";
+/* すべてのWEBページに適応させる  */
+html{
+    font-family: sans-serif;
+   /* margin: 0px;
+    margin-left: 1050px;
+    /*size: 3500px 4520px;*/
+    /*width: auto;    
+    height: auto;*/
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-repeat:no-repeat;
+    background-size:cover ;
+    background-image:url( "img/aa.jpg");
+   /* background-size: 3500px 4520px;*/
+   /* margin-top: 650px;
+    margin-bottom: 650px;
+    margin-left: 250px;
+    margin-right: 300px;
+    padding: 0px;
+    height: 50%;
+    width: auto;
+    height: 2565px;*/
+    
+   /* margin: 0;
+    padding: 0;
+    text-align: center;*/
+}
+.displaytitle{
+    font-size: 100px;
+    text-align: left;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: -4px -4px 0px #000, -3px -3px 0px #fff;
+    line-height:2;
+    padding: 0px;
+}
+.display{
+    font-size: 100px;
+    text-align: left;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: -4px -4px 0px #000, -3px -3px 0px #fff;
+    line-height:2;
+    padding: 0px;
+}
+.wintitle{
+    font-size: 100px;
+    text-align: left;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: -4px -4px 0px #000, -3px -3px 0px #fff;
+    line-height:2;
+    padding: 0px;
+}
+.win{
+    font-size: 110px;
+    text-align: left;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: -4px -4px 0px #000, -3px -3px 0px #fff;
+    margin: 0px;
+    line-height:0;
+    padding: 0px;
+}
+.winer{
+    font-size: 110px;
+    text-align: right;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: -4px -4px 0px #000, -3px -3px 0px #fff;
+    margin: 0px;
+    line-height:0;
+    padding: 0px;
+}
+.Enmy{
+    padding: 0px 0px;
+    margin:0 auto;
+    margin-top: 400px;
+   margin-bottom: 0px;
+   margin-left: 100px;
+   margin-right: 100px;
+   text-align: center;
+
+   transform: scale(2, 2);
+
+}
+.My{
+   
+   position: fixed;
+   top: 1500px;
+   left: 0;
+   right: 0;
+   bottom: 0;
+
+
+    bottom: 50px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+
+    margin:0;
+    margin-top: 20px;
+    margin-bottom: 800px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+
+    size: 3500px 4520px;
+
+   transform: scale(2, 2);
+}
+.DIS{
+    margin: 100px;
+}
+

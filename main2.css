@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* すべてのWEBページに適応させる  */
+html{
+  
+}
+body{
+    background-repeat:no-repeat;
+    background-size:cover ;
+    background-image:url( "img/aa.jpg");
+    position: fixed;
+}
+.displaytitle{
+
+}
+.display{
+ 
+}
+.wintitle{
+  
+}
+.win{
+   
+}
+.winer{
+    
+}
+.Enmy{
+    position: fixed;
+    top: 500;
+    left: 0px;
+    right: 0;
+    bottom: 1000;
+
+    text-align: center;
+}
+.My{
+  position: fixed;
+  top: 1000;
+  left: 0px;
+  right: 0;
+  bottom: 500;
+
+  padding: 0;
+
+  margin-top: 500px;
+
+  text-align: center;
+}
+.DIS{
+  
+}
